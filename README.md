@@ -1,1 +1,2 @@
-# scala_2020
+### scala_2020
+Caveat Emptor.
