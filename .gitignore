@@ -1,0 +1,10 @@
+#ignore all sfml .xml files
+*.xml
+
+#ignore IDEA env files
+.idea
+
+#ignore built binaries
+out
+
+*.iml
